@@ -161,10 +161,9 @@ function ManOpt({ flag, desc }) {
 function ManpagePage({ copyEmail }) {
   const year = "2026";
   return (
-    <div style={{
+    <div className="manpage" style={{
       maxWidth: 780,
       margin: "0 auto",
-      padding: "56px 56px 48px",
       minHeight: "100vh",
       display: "flex", flexDirection: "column", gap: 6,
       fontFamily: "var(--mono)",
