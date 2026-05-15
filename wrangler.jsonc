@@ -1,0 +1,7 @@
+{
+  "name": "wolf-sh",
+  "compatibility_date": "2026-05-15",
+  "assets": {
+    "directory": "./www"
+  }
+}
